@@ -30,7 +30,7 @@ title: Research
 1) **Irwin, B.**, and Reich, S. (2023) EnKSGD: A Class Of Preconditioned Black Box Optimization 
     					  And Inversion Algorithms. 
     					  
-   > [Preprint](https://arxiv.org/abs/2303.16494)
+   > [Preprint](https://arxiv.org/abs/2303.16494), [Code](https://github.com/0x4249/EnKSGD)
 
 &nbsp;
 
